@@ -75,10 +75,12 @@ html{
 }
 .cabecalho .item a{
     padding: 15px;
+    border-radius: 10px;    
     transition: 0.3s ease-in-out;
 }
 .cabecalho .item a:hover{
     background-color: #1ed760;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.219);
     color: #fff;
 }
 main section{
